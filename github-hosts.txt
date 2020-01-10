@@ -12,8 +12,9 @@
 204.232.175.78 training.github.com
 207.97.227.243 www.github.com
 185.31.16.184 github.global.ssl.fastly.net
-185.31.18.133 avatars0.githubusercontent.com
-185.31.19.133 avatars1.githubusercontent.com
+151.101.76.133 avatars0.githubusercontent.com
+151.101.76.133 avatars1.githubusercontent.com
+151.101.76.133 avatars2.githubusercontent.com
 151.101.76.133 camo.githubusercontent.com
 #192.30.253.112 github.com
 #151.101.185.194 github.global.ssl.fastly.net
